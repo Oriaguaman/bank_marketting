@@ -1,4 +1,4 @@
-# Bank Marketing Dataset Analysis
+# Bank Marketing Dataset Analysis done by Blessing Oriaguaman
 
 This repository contains Jupyter Notebook files for analyzing the Bank Marketing dataset using different class imbalance techniques.
 
