@@ -1,6 +1,12 @@
 # Bank Marketing Dataset Analysis done by Blessing Oriaguaman
 
-This repository contains Jupyter Notebook files for analyzing the Bank Marketing dataset using different class imbalance techniques.
+This repository contains Jupyter Notebook files for analyzing the Bank Marketing dataset using different class imbalance techniques and employing five machine learning algorithms:
+
+1. K Nearest Neighbor
+2. Decision Tree
+3. Logistic Regression
+4. Gradient Boosted Regression Tree
+5. Random Forest Tree
 
 ## File Structure
 
