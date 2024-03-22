@@ -13,6 +13,7 @@ This repository contains Jupyter Notebook files for analyzing the Bank Marketing
 - **`bank_marketting_smote.ipynb`**: Jupyter Notebook analyzing the Bank Marketing dataset using the SMOTE (Synthetic Minority Over-sampling Technique) technique for handling class imbalance.
 - **`bank_marketting_UnderSamp.ipynb`**: Jupyter Notebook analyzing the Bank Marketing dataset using the undersampling technique for handling class imbalance.
 - **`bank_marketting_OverSamp.ipynb`**: Jupyter Notebook analyzing the Bank Marketing dataset using the oversampling technique for handling class imbalance.
+- - **`bank_marketting_without_class_balancing.ipynb`**: Jupyter Notebook analyzing the Bank Marketing dataset without handling class imbalance.
 
 For each class imbalance technique, there are two corresponding files:
 
